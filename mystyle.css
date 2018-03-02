@@ -1,0 +1,47 @@
+body{
+     background-image:url(http://i.imgur.com/GHr12sH.jpg);
+     background-repeat:no-repeat;
+     background-size:cover;
+     height:100vh;
+
+}
+.frame{
+	margin:auto;
+	width:450px;
+}
+
+.login{
+     margin-top:100px;
+     height:350px;
+     color: #5d5d5d;
+	 background: #f2f2f2;
+	 padding:24%;
+	 border-radius: 10px;
+	 -moz-border-radius: 10px;
+	 -webkit-border-radius: 10px;
+}
+
+form[role=login] input,button{
+	display:block;
+	margin:auto;
+	width:220px;
+	height:36px;
+	
+}
+
+.lineword{
+	text-align:center;
+}
+
+form[role=signup] input,button{
+    
+    display:block;
+    
+    width:215px;
+    height:36px;
+}
+
+
+
+
+

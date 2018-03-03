@@ -1,6 +1,7 @@
 # LoginSystem
 - Web login system is created with PHP, Javascript, MySQL and PHPMailer
 - Apply jQuery, AJAX and Bootstrap
+- XAMPP 7.2.0 (Apache web server and MySQL Database)
 
 ## index page
 <img width="440" height= "300" alt="index_page" src="https://user-images.githubusercontent.com/31462632/36927785-050cc672-1e4e-11e8-94aa-063b70e2c3f9.png">
@@ -30,5 +31,13 @@ If the user forgets his password, he will need to enter their registered usernam
 ## sign in page
 <img width="440" height = "300" alt="login_success" src="https://user-images.githubusercontent.com/31462632/36929555-331ee18c-1e60-11e8-8ccb-2874a1a79442.png"><br>
 
-##
-
+# Instructions to run
+- Download and Set Up XAMPP(make sure the Apache Web Server and MySQL Database running)
+- Go to the website localhost/phpmyadmin, create a MySQL database named loginapp and create table named users with 6 columns.
+  The 6 columns are named with id, firstName, lastName, email, userid, pwd separately.
+- Register a new user in this LoginSystem, then user can sign in successfully.
+- If the user forget their password, the LoginSystem will apply PHPMailer to send user a email with validation code to let       them reset their password. So as to do that, you need to add some codes in the reset.php file.<br>
+  In the line 28 $mail->Username = ''; add a gmail address into ''<br>
+  In the line 29 $mail->Password = ''; add the password of gmail into ''<br>
+ In the line 34 $mail->setFrom(""); add the same gmail address into ""
+  

@@ -29,7 +29,10 @@ If the user forgets his password, he will need to enter their registered usernam
 <img width="440" height = "300" alt="reset_errorpage" src="https://user-images.githubusercontent.com/31462632/36929506-62ea6dd8-1e5f-11e8-8ea7-fa8d612229f6.png">
 
 ## sign in page
-<img width="440" height = "300" alt="login_success" src="https://user-images.githubusercontent.com/31462632/36929555-331ee18c-1e60-11e8-8ccb-2874a1a79442.png"><br>
+<img width="440" height = "300" alt="login_success" src="https://user-images.githubusercontent.com/31462632/36929555-331ee18c-1e60-11e8-8ccb-2874a1a79442.png">
+
+## database view
+<img width="800" height= "300" alt="database" src="https://user-images.githubusercontent.com/31462632/36938751-3baec6b6-1ef4-11e8-8e0d-d5689a718833.png"><br>
 
 # Instructions to run
 - Download and Set Up XAMPP(make sure the Apache Web Server and MySQL Database running)

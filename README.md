@@ -1,5 +1,6 @@
 # LoginSystem
-Web login system is created with PHP, Javascript, CSS and PHPMailer
+- Web login system is created with PHP, Javascript, MySQL and PHPMailer
+- Apply jQuery, AJAX and Bootstrap
 
 ## index page
 <img width="440" height= "300" alt="index_page" src="https://user-images.githubusercontent.com/31462632/36927785-050cc672-1e4e-11e8-94aa-063b70e2c3f9.png">
@@ -27,4 +28,7 @@ If the user forgets his password, he will need to enter their registered usernam
 <img width="440" height = "300" alt="reset_errorpage" src="https://user-images.githubusercontent.com/31462632/36929506-62ea6dd8-1e5f-11e8-8ea7-fa8d612229f6.png">
 
 ## sign in page
-<img width="440" height = "300" alt="login_success" src="https://user-images.githubusercontent.com/31462632/36929555-331ee18c-1e60-11e8-8ccb-2874a1a79442.png">
+<img width="440" height = "300" alt="login_success" src="https://user-images.githubusercontent.com/31462632/36929555-331ee18c-1e60-11e8-8ccb-2874a1a79442.png"><br>
+
+##
+

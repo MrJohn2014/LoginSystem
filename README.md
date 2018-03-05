@@ -40,7 +40,7 @@ If the user forgets his password, he will need to enter their registered usernam
   The 6 columns are named with id, firstName, lastName, email, userid, pwd separately.
 - Register a new user in this LoginSystem, then user can sign in successfully.
 - If the user forget their password, the LoginSystem will apply PHPMailer to send user a email with validation code to let       them reset their password. So as to do that, you need to add some codes in the reset.php file.<br>
-  In the line 28 $mail->Username = ''; add a gmail address into ''<br>
-  In the line 29 $mail->Password = ''; add the password of gmail into ''<br>
- In the line 34 $mail->setFrom(""); add the same gmail address into ""
+  In line 28 $mail->Username = ''; add a gmail address into ''<br>
+  In line 29 $mail->Password = ''; add the password of gmail into ''<br>
+ In line 34 $mail->setFrom(""); add the same gmail address into ""
   
